@@ -2,7 +2,6 @@ declare const Deno: any;
 
 const PSK = "e2a49b3e-6730-479d-b145-fa1fddc11efc";
 
-
 const STRIP_HEADERS = new Set([
   "host",
   "connection",
